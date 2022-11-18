@@ -1,0 +1,1 @@
+// copy all script from selected file in folder components and let react render it
